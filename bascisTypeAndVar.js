@@ -11,6 +11,10 @@ age = 34;
 console.log(age); //34
 age = "Chourannobboi";
 console.log(age); //Chourannobbois
+/**🔹 Create a variable isAdmin of type boolean. Assign a true value. */
+var isAdmin;
+isAdmin = true;
+console.log(isAdmin);
 /* Make Square Function ---> */
 var squareFunc = function (num) {
     return Math.pow(num, 2);

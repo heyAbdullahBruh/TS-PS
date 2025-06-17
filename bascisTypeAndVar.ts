@@ -15,6 +15,11 @@ console.log(age); //34
 age = "Chourannobboi";
 console.log(age); //Chourannobbois
 
+/**🔹 Create a variable isAdmin of type boolean. Assign a true value. */
+let isAdmin: boolean;
+isAdmin = true;
+console.log(isAdmin);
+
 /* Make Square Function ---> */
 const squareFunc = (num: number) => {
   return num ** 2;
